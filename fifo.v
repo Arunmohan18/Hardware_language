@@ -1,19 +1,5 @@
 `timescale 1ns /1ps
-//////////////////////////////////////////////////////////////////////////////////////////
-// Reference book:
-// "FPGA Prototyping by Verilog Examples"
-// "Xilinx Spartan-3 Version"
-// Dr. Pong P. Chu
-// Wiley
-//
-// Adapted for Artix-7
-// David J. Marion
-//
-// Parameterized FIFO Unit for the UART System
-// 
-// Comments:
-// - Many of the variable names have been changed for clarity
-//////////////////////////////////////////////////////////////////////////////////////////
+
 
 module fifo
 	#(
