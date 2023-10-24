@@ -1,11 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Reference Book: FPGA Prototyping By Verilog Examples Xilinx Spartan-3 Version
-// Authored by: Dr. Pong P. Chu
-// Published by: Wiley
-//
-// Adapted for the Basys 3 Artix-7 FPGA by David J. Marion
-//
 // Top Module for the Complete UART System
 //
 // Setup for 9600 Baud Rate
